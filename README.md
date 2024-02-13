@@ -23,7 +23,7 @@ Run the Automation script as TestNG test.
 4.[Downloaded CSV](https://github.com/Anoop1414/LoopAssignment14/blob/a75dc28836b731471eb9c93a94ab68d51c54067b/Download.jpg)
 5. [Grand Total and Actual Total ](https://github.com/Anoop1414/LoopAssignment14/blob/697a4c08f596f099e48cc233f984c1a6d4847261/Screenshot%202024-02-13%20012350.jpg)
 6. [Grand Total and Actual Total](https://github.com/Anoop1414/LoopAssignment14/blob/9df84df7bc56958aa37feee79678b84c0b6a0c27/Screenshot%202024-02-13%20012456.jpg)
-
+7. [Table Comparison](Link)
 ## Screen Recording
 [Grand total and Actual total comparison](https://drive.google.com/file/d/1s6Aq5ny2g8xkoIMPhrUX2vM1hDqLfAjC/view?usp=drive_link)
 [Download CSV](https://drive.google.com/file/d/1EzRkaL1BD1PYDWkh-K_uQKBmXmEbSOZN/view?usp=drive_link)

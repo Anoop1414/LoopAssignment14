@@ -13,6 +13,8 @@ Run the Automation script as TestNG test.
 ## Usage
 1. Run the main script to extract the table data from the income table and calculate its Total.
 2. The script will output the total income calculated from the extracted data and compare it with the grand total provided in the table.
+## ScreenShots
+[sdff](Grand Total and Actual Total Comparision)
 
 ## Project ScreenShot
 

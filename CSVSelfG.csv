@@ -1,0 +1,70 @@
+Order ID,Location,Order State,Type,Lost Sale,Net Payout,Payout ID,Payout Date
+,Savor Safari,REVERSAL,Delivery,$0.00,$18.93,24010503EPwE2PN,03-Jan-24
+O-998924842967535,,,Adjustment,$0.00,$0.01,24010503EPwE2PN,03-Jan-24
+,Delectable Dunes Dining,CHARGEBACK,Delivery,$0.00,$15.10,24010503DUTeMh1,03-Jan-24
+O-998924842964837,,,Error Charges / Inaccurate,$0.00,-$0.01,24010503DUTeMh1,03-Jan-24
+,Flavor Junction,CHARGEBACK,Delivery,$0.00,$19.00,24011210wZjRFFy,10-Jan-24
+O-998224883593061,,,Error Charges / Inaccurate,$0.00,-$9.70,24011210wZjRFFy,10-Jan-24
+,Quaint Quinoa Quarters,CHARGEBACK,Delivery,$0.00,$18.34,24011917YjJ06Ms,17-Jan-24
+O-996624956775949,,,Error Charges / Canceled,$0.00,-$18.34,24011917YjJ06Ms,17-Jan-24
+,Savor Safari,CHARGEBACK,Delivery,$0.00,$18.52,24011917EPwE2PN,17-Jan-24
+O-996624956771900,,,Error Charges / Inaccurate,$0.00,-$0.02,24011917EPwE2PN,17-Jan-24
+,Delectable Drizzle Diner,CHARGEBACK,Delivery,$0.00,$23.70,24011210oR6gofE,10-Jan-24
+O-995324871218821,,,Error Charges / Inaccurate,$0.00,-$16.25,24011210oR6gofE,10-Jan-24
+,Ember & Elegance,REVERSAL,Delivery,$0.00,$11.72,231222204BPHwLz,20-Dec-23
+O-994024690068355,,,Error Charges / Canceled,$0.00,-$11.72,231222204BPHwLz,20-Dec-23
+,,,Adjustment,$0.00,$12.99,240112104BPHwLz,10-Jan-24
+,Savory Haven,REVERSAL,Delivery,$0.00,$36.75,23122220k68OhEy,20-Dec-23
+O-994024690061931,,,Adjustment,$0.00,$0.01,23122220k68OhEy,20-Dec-23
+,Palette Pavilion,CHARGEBACK,Delivery,$0.00,$15.71,24011917y_GzKpm,17-Jan-24
+O-991824961297502,,,Error Charges / Inaccurate,$0.00,-$16.19,24011917y_GzKpm,17-Jan-24
+,Tantalizing Tastes Tower,CHARGEBACK,Delivery,$0.00,$9.98,PENDING,PENDING
+O-991824961219491,,,Error Charges / Inaccurate,$0.00,-$6.75,PENDING,PENDING
+,Culinary Cloud Cove,REVERSAL,Delivery,$0.00,$15.58,23122927oz77U_3,27-Dec-23
+O-990824771086231,,,Error Charges / Inaccurate,$0.00,-$13.99,23122927oz77U_3,27-Dec-23
+,,,Adjustment,$0.00,$13.99,24011917oz77U_3,17-Jan-24
+,Tasteful Tranquility,REVERSAL,Delivery,$0.00,$12.09,24010501X6lm_vE,01-Jan-24
+O-990824771051292,,,Error Charges / Canceled,$0.00,-$12.09,24010501X6lm_vE,01-Jan-24
+,,,Adjustment,$0.00,$14.29,24011917X6lm_vE,17-Jan-24
+,Whisk & Whistle,CHARGEBACK,Delivery,$0.00,$14.15,23122927LIwjc2d,27-Dec-23
+O-987124705430554,,,Error Charges / Canceled,$0.00,-$14.15,23122927LIwjc2d,27-Dec-23
+,Melange Munchies,REVERSAL,Delivery,$0.00,$16.40,231222202n25wXw,20-Dec-23
+O-987124705408213,,,Adjustment,$0.00,$0.01,231222202n25wXw,20-Dec-23
+,Fireside Fiesta,REVERSAL,Delivery,$0.00,$16.31,23122927Euwg5us,27-Dec-23
+O-987124705406811,,,Error Charges / Canceled,$0.00,-$16.31,23122927Euwg5us,27-Dec-23
+,,,Adjustment,$0.00,$18.80,24011210Euwg5us,10-Jan-24
+,Culinary Cloud Cove,REVERSAL,Delivery,$0.00,$27.64,23122220wtiO1sV,20-Dec-23
+O-987124695401257,,,Error Charges / Inaccurate,$0.00,-$0.79,23122220wtiO1sV,20-Dec-23
+,,,Adjustment,$0.00,$4.78,24011210wtiO1sV,10-Jan-24
+,Blissful Bites Buffet,CHARGEBACK,Delivery,$0.00,$88.68,24011917loPGaoh,17-Jan-24
+O-982224956233188,,,Error Charges / Inaccurate,$0.00,-$110.84,24011917loPGaoh,17-Jan-24
+,Enchanted Eats Emporium,CHARGEBACK,Delivery,$0.00,$22.43,240119170P3V5BU,17-Jan-24
+O-980724956867090,,,Error Charges / Canceled,$0.00,-$22.43,240119170P3V5BU,17-Jan-24
+,Velvet Vittles,CHARGEBACK,Delivery,$0.00,$19.42,23122927th4DRsF,27-Dec-23
+O-974424740360424,,,Error Charges / Inaccurate,$0.00,-$9.80,23122927th4DRsF,27-Dec-23
+,Gourmet Grove,CHARGEBACK,Delivery,$0.00,$30.29,24011210QntfnL-,10-Jan-24
+O-974024853368135,,,Error Charges / Inaccurate,$0.00,-$8.40,24011210QntfnL-,10-Jan-24
+,Culinary Cloud Cove,REVERSAL,Delivery,$0.00,$45.49,24011210qj1aT07,10-Jan-24
+O-974024843367855,,,Error Charges / Canceled,$0.00,-$45.49,24011210qj1aT07,10-Jan-24
+,,,Adjustment,$0.00,$56.87,PENDING,PENDING
+,Celestial Cuisine Corner,REVERSAL,Delivery,$0.00,$42.99,23122927UVoQUhw,27-Dec-23
+O-973324735967657,,,Adjustment,$0.00,$0.01,23122927UVoQUhw,27-Dec-23
+,Enchanted Edibles,CHARGEBACK,Delivery,$0.00,$23.80,240105019Xm_hmS,01-Jan-24
+O-970124814626332,,,Error Charges / Inaccurate,$0.00,-$7.70,240105019Xm_hmS,01-Jan-24
+,Savory Haven,CHARGEBACK,Delivery,$0.00,$14.87,24010501k68OhEy,01-Jan-24
+O-970124814615308,,,Error Charges / Inaccurate,$0.00,-$0.01,24010501k68OhEy,01-Jan-24
+,Tasteful Tranquility,REVERSAL,Delivery,$0.00,$55.93,24010501X6lm_vE,01-Jan-24
+O-970124804624691,,,Error Charges / Canceled,$0.00,-$55.93,24010501X6lm_vE,01-Jan-24
+,,,Adjustment,$0.00,$66.09,24011917X6lm_vE,17-Jan-24
+,Delectable Dunes Dining,REVERSAL,Delivery,$0.00,$9.32,23122927DUTeMh1,27-Dec-23
+O-968924738307858,,,Adjustment,$0.00,$0.01,23122927DUTeMh1,27-Dec-23
+,Whisk & Willow,REVERSAL,Delivery,$0.00,$51.20,23122927plseiMQ,27-Dec-23
+O-968924738307253,,,Adjustment,$0.00,$0.01,23122927plseiMQ,27-Dec-23
+,Savor Safari,REVERSAL,Delivery,$0.00,$12.20,24010501EPwE2PN,01-Jan-24
+O-968524807876607,,,Adjustment,$0.00,$0.01,24010501EPwE2PN,01-Jan-24
+,Epicurean Embrace,CHARGEBACK,Delivery,$0.00,$27.26,24010501OfpHiRC,01-Jan-24
+O-968524807875600,,,Error Charges / Canceled,$0.00,-$27.26,24010501OfpHiRC,01-Jan-24
+,Enchanted Eats Emporium,REVERSAL,Delivery,$0.00,$24.47,231222200P3V5BU,20-Dec-23
+O-968524700351713,,,Error Charges / Inaccurate,$0.00,-$14.29,231222200P3V5BU,20-Dec-23
+,,,Error Charges / Inaccurate,$0.00,-$14.29,231222200P3V5BU,20-Dec-23
+,,,Adjustment,$0.00,,,

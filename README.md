@@ -13,6 +13,9 @@ Run the Automation script as TestNG test.
 ## Usage
 1. Run the main script to extract the table data from the income table and calculate its Total.
 2. The script will output the total income calculated from the extracted data and compare it with the grand total provided in the table.
+
+[Automation Script](https://github.com/Anoop1414/LoopAssignment14/blob/387680cb3381d71814eda0d3ed3e235184b20518/Lassigment)
+   
 ## ScreenShots
 1. [Grand Total and Actual Total ](https://github.com/Anoop1414/LoopAssignment14/blob/697a4c08f596f099e48cc233f984c1a6d4847261/Screenshot%202024-02-13%20012350.jpg)
 2. [Grand Total and Actual Total](https://github.com/Anoop1414/LoopAssignment14/blob/9df84df7bc56958aa37feee79678b84c0b6a0c27/Screenshot%202024-02-13%20012456.jpg)
